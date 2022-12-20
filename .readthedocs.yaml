@@ -7,15 +7,16 @@ build:
     
 sphinx:
   fail_on_warning: true
+  configuration: docs/source/conf.py
+
+submodules:
+  exclude: all
 
 python:
   # Install our python package before building the docs
   install:
     - method: pip
       path: .
-      
-sphinx:
-  fail_on_warning: true
 
 formats:
   - pdf
