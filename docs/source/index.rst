@@ -1,23 +1,16 @@
-Welcome to Lumache's documentation!
-===================================
-Lumache has its documentation hosted on Read the Docs.
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. _documentation_home:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+CACAO'S Robot
+==============
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+we are cacao's team.
 
 .. toctree::
+   :caption: CACAO'S Hardware Design
+   :maxdepth: 1
+   :hidden:
 
-   usage
-   api
+   nechanical_system/index.rst
+   
+
 
