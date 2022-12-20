@@ -3,7 +3,31 @@
 Cacao's Mechanical System
 #########################
 
-Cacao's mobile manipulator robot parts
+Cacao's 3D model
+.. image:: .\images\Cacao Isometric View.jpg
+   :width: 480
+   :align: center
+   :alt: Mechanical System Architecture
+
+System Design
+*************
+To Develop a "mobile manipulator prototype" for do some proof of concept, requirements must be collected and form a mechanical system architecture. In brief, the robot must be able to see, walk, talk and manipulate objects in a dynamic environments.
+
+This is ours architecture
+
+.. image:: .\images\Mechanical System Architecture.jpg
+   :width: 480
+   :align: center
+   :alt: Mechanical System Architecture
+
+This Mechanical System Architecture has a core at Chassis which seperates to 3 main parts, base and body. Base is a mobile robot which can perform a SLAM and navigation by using Lidar, IMU and driving system that mounted on a base. Body is a structure for mount the others electronics components and Cacao's computational unit. In base and body, each part have independent power and protection system for debugging and isolate testing. The last part is UR3e Manipulator and Gripper which is a Cacao's arm and hand.
+
+and from this architecture we seperate development process in to 3 parts
+
+.. image:: .\images\Cacao Explode view.jpg
+   :width: 480
+   :align: center
+   :alt: Mechanical System Architecture
 
 .. toctree::
    :maxdepth: 1
@@ -11,9 +35,3 @@ Cacao's mobile manipulator robot parts
    mech_docs/Cacao_base.rst
    mech_docs/Cacao_body.rst
    mech_docs/Cacao_gripper.rst
-
-System Design objectives
-************************
-Develop a "mobile manipulator POC prototype" for complete a user story.
-
-Our system design is based on requirements that extract from The RoboCup@home rule book 2019. In first phase, we arrange our user story from "Carry my Lagguage task" and try to complete it. 
