@@ -6,7 +6,7 @@ Cacao's Mechanical System
 Cacao's 3D model
 
 .. image:: ./images/Cacao_Isometric_View.jpg
-   :width: 480
+   :width: 240
    :align: center
    :alt: Cacao's Isometric View
 
@@ -33,6 +33,6 @@ and from this architecture we seperate development process in to 3 parts
    mech_docs/Cacao_gripper.rst
 
 .. image:: ./images/Cacao_Explode_View.jpg
-   :width: 480
+   :width: 240
    :align: center
    :alt: Cacao's Explode View2
