@@ -4,7 +4,7 @@ Cacao's Mechanical System
 #########################
 
 Cacao's 3D model
-.. image:: .\images\Cacao Isometric View.jpg
+.. image:: .\images\Cacao_Isometric_View.jpg
    :width: 480
    :align: center
    :alt: Mechanical System Architecture
@@ -15,7 +15,7 @@ To Develop a "mobile manipulator prototype" for do some proof of concept, requir
 
 This is ours architecture
 
-.. image:: .\images\Mechanical System Architecture.jpg
+.. image:: .\images\Mechanical_System_Architecture.jpg
    :width: 480
    :align: center
    :alt: Mechanical System Architecture
@@ -24,7 +24,7 @@ This Mechanical System Architecture has a core at Chassis which seperates to 3 m
 
 and from this architecture we seperate development process in to 3 parts
 
-.. image:: .\images\Cacao Explode view.jpg
+.. image:: .\images\Cacao_Explode_View.jpg
    :width: 480
    :align: center
    :alt: Mechanical System Architecture
