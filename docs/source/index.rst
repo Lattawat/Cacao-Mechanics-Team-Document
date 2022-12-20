@@ -10,7 +10,7 @@ we are cacao's team.
    :maxdepth: 1
    :hidden:
 
-   nechanical_system/index.rst
+   mechanical_system/index.rst
    
 
 
