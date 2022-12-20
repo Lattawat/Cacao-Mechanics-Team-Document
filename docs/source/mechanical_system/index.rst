@@ -6,7 +6,7 @@ Cacao's Mechanical System
 Cacao's mobile manipulator robot parts
 
 .. toctree::
-   :masxdepth: 1
+   :maxdepth: 1
 
    mech_docs/Cacao_base.rst
    mech_docs/Cacao_body.rst
