@@ -3,7 +3,7 @@
 Cacao's gripper
 ###############
 
-.. image:: ./image/encompassing_grip_Cacao_gripper.jpg
+.. image:: ./image/Fianl_Cacao_gripper.jpg
     :width: 480
     :align: center
     :alt: Final Design of Cacao Gripper
