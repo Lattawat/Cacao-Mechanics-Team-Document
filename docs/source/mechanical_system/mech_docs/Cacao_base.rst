@@ -66,6 +66,24 @@ lidar, IMU and driving system are installed.
 
 Verification
 ************
+- Walk through 1 cm and 2 cm of ramps and step.
+
+2 VDO here
+
+- Walk through 1 inch length gap (elevator gap)
+
+VDO here
 
 On-going process
 ****************
+- Change a spring for more reliable use. 
+
+    Right now this spring able to increase traction and support ramp and step crossing, but it's too soft for maintain stability of a robot because there errors between calculation parameters and ideal parameters. To find the most suitable spring, we can fix by find upper and lower bound of a spring and make an experiment about this. 
+
+- Next Design
+
+    This Cacao's base design didn't cover about how to make a robot easy to relocate and this design can reduce some structures that are overspec.
+
+- Tolerance 
+
+    Misalignment always occur in assembling phrase. Acrylic positioner from high precision CNC laser cutter is the easiest way but not the best because it produce wastes. Moreover, metal fabrication tolerance must be concern. 
