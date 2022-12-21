@@ -52,7 +52,7 @@ torsional spring.
 ..     :align: center
 ..     :alt: Cacao's gripper Kinematics Chain
 
-- Motor Selection
+- Acuator
 
 To drive the gripper's links, Dynamixel MX-64T is seleted as a motor which can generated 
 driven torque around 6 Nm and combined with 25:54 gear ratio which can deliver 15.768 Nm 
@@ -107,21 +107,37 @@ Methods
 1.	Selecting an object and hold it between the gripper jaws
 
 Food Items
+
 -	Box of cereal
--	Can of Pringles.
+
+-	Can of Pringles
+
 Kitchen Items
+
 -	Pan
+
 -	Lunch box
+
 -	Eating utensils (spoons and forks)
+
 -	Whisk
+
 Tool Items
+
 -	Screws
+
 -	Bolts
+
 -	Hex wrench
+
 Shape Items
+
 -	Mini soccer ball
+
 -	Duct tape roll
+
 Task Items
+
 -	T-shirt
 
 2.	Command the gripper to grip the object and start the timer
@@ -129,6 +145,10 @@ Task Items
 3.	Experiment each object with each type of grip (Parallel, Encompassing, and Jaw)
 
 4.	The gripper must be able to hold the object for 30 seconds without dropping or destroying it.
+
+result
+
+result table
 
 Discussion
 **********
