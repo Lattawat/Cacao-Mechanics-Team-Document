@@ -12,12 +12,12 @@ Cacao's base is a mobile robot which can perform SLAM and navigation isolate fro
 
 Cacao's base components
 * Driving system 
-    * Hub Motor
-    * Motor Driver
-    * Wheels
+ * Hub Motor
+ * Motor Driver
+ * Wheels
 * Casters
-    * Front casters
-    * Back casters with suspension system
+ * Front casters
+ * Back casters with suspension system
 * MCU (Microcontroller Unit)
 * Battery
 * Power and Protection Circuit
