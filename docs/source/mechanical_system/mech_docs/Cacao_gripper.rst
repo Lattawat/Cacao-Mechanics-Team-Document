@@ -23,14 +23,14 @@ Requirements
 ************
 
 1. Physical Requirements
-    1.1. Gripper must be able to attach with UR3e end-effector mount.
-    1.2. Gripper must have weight lower than 1.3 kg when using with UR3e.
+1.1. Gripper must be able to attach with UR3e end-effector mount.
+1.2. Gripper must have weight lower than 1.3 kg when using with UR3e.
 2. Functional Requirements
-    2.1. Robot must be able to manipulate objects.
-        2.1.1. Robot's manipulator must have payload enough for 1.5 kg object at end-effector (neglect gripper weight).
-        2.1.2. Gripper structure safety factor must be higher or equal 2.
-    2.2. Gripper should be able to grasp most of the standard objects in YCB dataset.
-    2.3. Gripper should not damage the grasping object.
+2.1. Robot must be able to manipulate objects.
+2.1.1. Robot's manipulator must have payload enough for 1.5 kg object at end-effector (neglect gripper weight).
+2.1.2. Gripper structure safety factor must be higher or equal 2.
+2.2. Gripper should be able to grasp most of the standard objects in YCB dataset.
+2.3. Gripper should not damage the grasping object.
 
 Design Methodology
 ******************
@@ -132,9 +132,10 @@ Task Items
 
 Discussion
 **********
-    From the result, our gripper can grip almost every object, only 3 of the selected cannot be gripped 
+From the result, our gripper can grip almost every object, only 3 of the selected cannot be gripped 
 which are pan and hexagonal wrench with a parallel grip and a mini soccer ball with an encompassing grip. 
-    After analyzing the results, our team found that the reason why the gripper cannot grip those 
+
+After analyzing the results, our team found that the reason why the gripper cannot grip those 
 objects tightly is due to the small gripping surface compared to the weight of those objects. Furthermore, 
 the reason why the gripper can grip a mini soccer ball with a parallel grip but not with an encompassing grip 
 is due to the lack of friction in the middle link of the gripper. After further examination, our team found 
