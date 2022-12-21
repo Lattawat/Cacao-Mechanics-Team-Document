@@ -10,9 +10,9 @@ Cacao's 3D model
    :align: center
    :alt: Cacao's Isometric View
 
-System Design
-*************
-To Develop a "mobile manipulator prototype" for do some proof of concept, requirements must be collected and form a mechanical system architecture. In brief, the robot must be able to see, walk, talk and manipulate objects in a dynamic environments.
+System Design Overview
+**********************
+To Develop a "mobile manipulator prototype" for doing a proof of concept, requirements must be collected and form a mechanical system architecture. In RoboCup@home challenge, the robot must be able to see, walk, talk and manipulate objects in a dynamic environments.
 
 This is ours architecture
 
