@@ -37,12 +37,12 @@ Frabication Method:
 
 Design Methodology
 ******************
-- Easy maintainance 
+- Easy to maintain
 
 .. image:: ./image/left-right_Cacao_base.jpg
     :width: 480
     :align: center
-    :alt: Cacao's base
+    :alt: Cacao's base electric Circuit Area
 
 Most of mobile robot conponents install on the face-out left and right plane using din rail as a installation method.
 
@@ -51,7 +51,7 @@ Most of mobile robot conponents install on the face-out left and right plane usi
 .. image:: ./image/suspension_system_Cacao_base.jpg
     :width: 480
     :align: center
-    :alt: Cacao's base
+    :alt: Cacao's base suspension system
 
 Simple bar and spring is choosen in this prototype for verify some expected use case. The main purpose for this suspension is increase the traction and support robot while movong through step ground.
 
@@ -60,7 +60,7 @@ Simple bar and spring is choosen in this prototype for verify some expected use 
 .. image:: ./image/lidar_Cacao_base.jpg
     :width: 480
     :align: center
-    :alt: Cacao's base
+    :alt: Cacao's base lidar installation
 
 lidar, IMU and driving system are installed.
 
@@ -78,12 +78,12 @@ On-going process
 ****************
 - Change a spring for more reliable use. 
 
-    Right now this spring able to increase traction and support ramp and step crossing, but it's too soft for maintain stability of a robot because there errors between calculation parameters and ideal parameters. To find the most suitable spring, we can fix by find upper and lower bound of a spring and make an experiment about this. 
+    Right now this spring able to increase traction and support ramp and step crossing, but it's too soft for maintain stability of a robot because there errors between calculation parameters and ideal parameters. To find the most suitable spring, we can fix by find upper and lower bound of a spring and form an spring testing experiment. 
 
 - Next Design
 
-    This Cacao's base design didn't cover about how to make a robot easy to relocate and this design can reduce some structures that are overspec.
+    This Cacao's base design didn't cover about how to make a robot easy to relocate and some structures can be reduced.
 
 - Tolerance 
 
-    Misalignment always occur in assembling phrase. Acrylic positioner from high precision CNC laser cutter is the easiest way but not the best because it produce wastes. Moreover, metal fabrication tolerance must be concern. 
+    Misalignment always occur in assembling phrase, Cacao also. Acrylic positioner from high precision CNC laser cutter is the easiest way but not the best because it produce wastes. Moreover, metal fabrication tolerance must be concern. 
