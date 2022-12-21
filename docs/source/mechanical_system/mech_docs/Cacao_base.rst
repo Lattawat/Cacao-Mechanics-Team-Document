@@ -40,7 +40,7 @@ Design Methodology
     :align: center
     :alt: Cacao's base
 
-    Most of mobile robot conponents install on the face-out left and right plane using din rail as a installation method.
+Most of mobile robot conponents install on the face-out left and right plane using din rail as a installation method.
 
 - Good traction
 
@@ -49,7 +49,7 @@ Design Methodology
     :align: center
     :alt: Cacao's base
 
-    Simple bar and spring is choosen in this prototype for verify some expected use case. The main purpose for this suspension is increase the traction and support robot while movong through step ground.
+Simple bar and spring is choosen in this prototype for verify some expected use case. The main purpose for this suspension is increase the traction and support robot while movong through step ground.
 
 - Ready for perform SLAM and mavigation
 
@@ -58,7 +58,7 @@ Design Methodology
     :align: center
     :alt: Cacao's base
 
-    lidar and IMU is installed.
+lidar, IMU and driving system are installed.
 
 Verification
 ************
