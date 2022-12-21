@@ -11,23 +11,26 @@ Cacao's base
 Cacao's base is a mobile robot which can perform SLAM and navigation isolate from Cacao's body.
 
 Cacao's base components
-* Driving system 
-* Hub Motor
-* Motor Driver
-* Wheels
-* Casters
-* Front casters
-* Back casters with suspension system
-* MCU (Microcontroller Unit)
-* Battery
-* Power and Protection Circuit
-* UR3e mounter
-* Intel NUC (when isolate from Cacao's body)
+
+- Driving system 
+- Hub Motor
+- Motor Driver
+- Wheels
+- Casters
+- Front casters
+- Back casters with suspension system
+- MCU (Microcontroller Unit)
+- Battery
+- Power and Protection Circuit
+- UR3e mounter
+- Intel NUC (when isolate from Cacao's body)
 
 Physical Details
 ****************
 Base Dimension: 62.2 cm x 81 cm x 39 cm
+
 Frabication Method: 
+
 1. Using Aluminum Frame and Bracket
 2. Laser cut metal Sheet and acrylic
 3. Some custom parts using 3D printer
