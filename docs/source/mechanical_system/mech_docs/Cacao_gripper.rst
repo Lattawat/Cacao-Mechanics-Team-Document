@@ -148,7 +148,7 @@ Task Items
 
 result
 
-result table
+result table picture
 
 Discussion
 **********
@@ -163,4 +163,4 @@ that the lack of friction between driving shafts and driving links reduced the g
 
 On-going
 ********
-
+- recursive testing and adjust jaws design
