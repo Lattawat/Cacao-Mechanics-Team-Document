@@ -27,9 +27,10 @@ Cacao's base components
 Physical Details
 ****************
 Base Dimension: 62.2 cm x 81 cm x 39 cm
-Frabication Method: 1. Using Aluminum Frame and Bracket
-                    2. Laser cut metal Sheet and acrylic
-                    3. Some custom parts using 3D printer
+Frabication Method: 
+1. Using Aluminum Frame and Bracket
+2. Laser cut metal Sheet and acrylic
+3. Some custom parts using 3D printer
 
 Design Methodology
 ******************
@@ -53,7 +54,7 @@ Simple bar and spring is choosen in this prototype for verify some expected use 
 
 - Ready for perform SLAM and mavigation
 
-.. image:: ./image/ladar_Cacao_base.jpg
+.. image:: ./image/lidar_Cacao_base.jpg
     :width: 480
     :align: center
     :alt: Cacao's base
